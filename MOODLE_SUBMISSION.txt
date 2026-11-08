@@ -1,0 +1,1 @@
+Upload the ZIP file to the relevant Moodle assignment activity. If Moodle requests a public URL instead of a file, upload this project ZIP to an approved cloud storage location and paste its share link. This package has not been uploaded to Moodle.
